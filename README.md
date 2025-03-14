@@ -15,11 +15,15 @@
 3. Run the cells in order  
 
 ## 📊 Some Results  
-- 📌 If you want to rake in the cash, stick to Animation, Adventure, and Fantasy. 🎬✨🏰  
-- 📌 But if you want to squeeze the most cash out of your budget, Comedy, Drama, and Horror are your best bets! 😂🎭👻 (ROI approved!)  
-- 📌 In terms of revenue, May, June, and November are the most profitable months for movie releases. 🎬💥🍿  
-- 📌 When it comes to movies, Christopher Nolan wins hearts, but James Cameron wins wallets! Nolan makes the most popular and highly rated films, while Cameron cashes in with the biggest box office hits. 🎬💰  
-- 📌 Among the 20 most frequently cast actors, only one is a woman—Hollywood, we need to talk! 🎬🤨  
+📌 **If you want to rake in the cash, stick to Animation, Adventure, and Fantasy.** 🎬✨🏰  
+
+📌 **But if you want to squeeze the most cash out of your budget, Comedy, Drama, and Horror are your best bets!** 😂🎭👻 (ROI approved!)  
+
+📌 **In terms of revenue, May, June, and November are the most profitable months for movie releases.** 🎬💥🍿  
+
+📌 **When it comes to movies, Christopher Nolan wins hearts, but James Cameron wins wallets!** Nolan makes the most popular and highly rated films, while Cameron cashes in with the biggest box office hits. 🎬💰  
+
+📌 **Among the 20 most frequently cast actors, only one is a woman—Hollywood, we need to talk!** 🎬🤨   
 
 ---
 🔗 **Check the full notebook here:** [movies-analysis.ipynb](https://github.com/Emma10-10/movie-analysis)
