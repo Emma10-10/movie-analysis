@@ -26,7 +26,7 @@
 📌 **Among the 20 most frequently cast actors, only one is a woman—Hollywood, we need to talk!** 🎬🤨  
 
 ## 📊 Results  
-<img src="actor-collab-network.png" width="600">
+<img src="actor-collab-network.png" width="800">
 
 ---
 🔗 **Check the full notebook here:** [movies-analysis.ipynb](https://github.com/Emma10-10/movie-analysis)
