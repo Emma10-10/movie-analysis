@@ -28,5 +28,7 @@
 ## 📊 Results  
 <img src="actor-collab-network.png" width="800">
 
+<img src="movie-vs-revenue.png" width="800">
+
 ---
 🔗 **Check the full notebook here:** [movies-analysis.ipynb](https://github.com/Emma10-10/movie-analysis)
